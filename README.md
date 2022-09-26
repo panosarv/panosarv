@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
-- 🌱 I’m currently **Next.js,**
+- 🌱 I’m currently learning: **Next.js, as well as Tensorflow**
 
 - 📫 How to reach me **pngarva@gmail.com**
 
