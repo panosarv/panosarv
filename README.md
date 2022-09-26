@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: **Next.js, as well as Tensorflow**!
 
 - 📚 Current projects: 
-  **BestMarket** -> Application using ML & AI and sorting algorithms in order to find the best supertmarket for the user to shop                            based on their needs.
+  **BestMarket** -> Application using ML & AI and sorting algorithms in order to find the best supertmarket for the user to shop based on their needs.
 
 - 📫 How to reach me: **pngarva@gmail.com**
 
