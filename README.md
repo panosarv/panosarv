@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate future computer engineer from Greece. I am keen on expanding my knowledge of Machine Learning and Artificial Intelligence as well as Web Development</h3>
 <p align=center>
-<a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="500px" height="300px" alt="HackerBongoCat">
+<img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="500px" height="300px" alt="HackerBongoCat">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
