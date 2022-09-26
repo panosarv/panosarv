@@ -7,9 +7,14 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
-- 🌱 I’m currently learning: **Next.js, as well as Tensorflow**
+- 🌱 I’m currently learning: **Next.js, as well as Tensorflow**!
+
+- 📚 Current projects: 
+  **BestMarket** -> Application using ML & AI and sorting algorithms in order to find the best supertmarket for the user to shop                            based on their needs.
 
 - 📫 How to reach me: **pngarva@gmail.com**
+
+
 
 
 
