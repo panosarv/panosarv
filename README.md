@@ -4,7 +4,6 @@
 <h3 align="center">A passionate future computer engineer from Greece. I am keen on expanding my knowledge of Machine Learning and Artificial Intelligence as well as Web Development</h3>
 <p align=center>
 <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="400px" height="300px" alt="HackerBongoCat">
- <iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
