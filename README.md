@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate future computer engineer from Greece. I am keen on expanding my knowledge of Machine Learning and Artificial Intelligence as well as Web Development</h3>
 <p align=center>
-<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="400px" height="300px" alt="PcCoffeegif">
+<img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="400px" height="300px" alt="PcCoffeegif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
 - 🌱 I’m currently learning: **Next.js, as well as Tensorflow**!
