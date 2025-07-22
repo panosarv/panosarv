@@ -8,10 +8,13 @@
 
 - 💼 Salesforce Developer for Deloitte. Working on as the CRM Developer Level for Unoenergy CRM. 
 
-- 🌱 I’m currently learning: **Next.js, as well as Tensorflow**!
+- 🌱 I’m currently trying to create as many web apps as I can!
 
-- 📚 Current projects: 
+- 📚 Key Projects: 
   **BestMarket** -> Application using ML & AI and sorting algorithms in order to find the best supertmarket for the user to shop based on their needs.
+  **Express Transfer Paros** -> My first online website for an actualy company in Paros.
+
+- 1/2 of **Twolio**
 
 - 📫 How to reach me: **pngarva@gmail.com**
 
