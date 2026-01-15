@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="400px" height="300px" alt="PcCoffeegif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
 
-- 💼 Salesforce Developer for Deloitte. Working on as the CRM Developer Level for Unoenergy CRM. 
+- 💼 Salesforce Developer. Working on as the CRM Developer Level for Unoenergy CRM. 
 
 - 🌱 I’m currently trying to create as many web apps as I can!
 
