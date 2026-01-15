@@ -1,7 +1,7 @@
 <body>
 <h1 align="center">Hi 👋, I'm Panagiotis Arvanitis </a></h1> 
 
-<h3 align="center">A passionate computer engineer from Greece. I am currently working as a Salesforce Developer for Deloitte! I am keen on expanding my knowledge of Machine Learning and Artificial Intelligence as well as Full stack Development</h3>
+<h3 align="center">A passionate computer engineer. I am currently working as a Salesforce Developer! I am keen on expanding my knowledge of Machine Learning and Artificial Intelligence as well as Full stack Development</h3>
 <p align=center>
 <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="400px" height="300px" alt="PcCoffeegif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panosarv&label=Profile%20views&color=0e75b6&style=flat" alt="panosarv" /> </p>
